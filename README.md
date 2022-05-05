@@ -2,7 +2,7 @@
 
 ## Funnel Chart
 
-![newplot (1)](https://user-images.githubusercontent.com/29350894/167027890-49df5bae-d6a0-43f3-8ce3-d257aee1512d.png)
+![newplot (2)](https://user-images.githubusercontent.com/29350894/167027992-2d78b503-d27e-414e-8ca2-6b67b517c7ee.png)
 
 ## Sunburst Chart
 
