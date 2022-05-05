@@ -14,3 +14,7 @@
 # Gantt Chart
 
 ![newplot (4)](https://user-images.githubusercontent.com/29350894/167031355-685ab719-a2fe-44b4-b6d9-5b7a3aa2b7ff.png)
+
+# Tree map
+
+![tree map](https://user-images.githubusercontent.com/29350894/167032993-5a386b76-951e-4124-9548-d2a8b4d13972.png)
