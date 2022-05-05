@@ -10,3 +10,7 @@
 
 ## parallel coordinate chart
 ![newplot (1)](https://user-images.githubusercontent.com/29350894/167025010-a54dfbf7-8688-489c-a864-736c401cfa25.png)
+
+# Gantt Chart
+
+![newplot (4)](https://user-images.githubusercontent.com/29350894/167031355-685ab719-a2fe-44b4-b6d9-5b7a3aa2b7ff.png)
