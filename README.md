@@ -9,7 +9,14 @@
 ![newplot](https://user-images.githubusercontent.com/29350894/167024189-af9d00ad-94ba-499b-a2a7-e60e5d0895ba.png)
 
 ## parallel coordinate chart
+
 ![newplot (1)](https://user-images.githubusercontent.com/29350894/167025010-a54dfbf7-8688-489c-a864-736c401cfa25.png)
+
+# Network Chart
+
+
+![download](https://user-images.githubusercontent.com/29350894/167034415-41640671-af42-4b16-9aaf-25935fddbc07.png)
+
 
 # Gantt Chart
 
